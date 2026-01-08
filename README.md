@@ -1,4 +1,4 @@
-👋 Hi there, I'm Nguyen Thi Khanh Ly!
+# 👋 Hi there, I'm Nguyen Thi Khanh Ly!
 
 🎓 I'm a fourth-year student majoring in **Data Science in Economics and Business**
 at **National Economics University (NEU), Hanoi**.
