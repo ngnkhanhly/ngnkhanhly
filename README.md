@@ -55,29 +55,6 @@ My current interests include:
 
 ---
 
-## 📌 Selected Projects
-
-### 📄 Information Extraction from Image — OCR Benchmarking
-- Designed a two-stage OCR pipeline (Text Detection + Text Recognition)
-- Implemented YOLO-based text detection and CRNN recognition
-- Benchmarked YOLO+CRNN, YOLO+TrOCR, and EasyOCR under identical settings
-- Analyzed accuracy–latency trade-offs on NVIDIA T4 GPU
-- Focused on system-level comparison to support model selection decisions
-
-### 😷 Face Mask Detection System
-- Built a 3-class mask-wearing classification system
-- Compared a custom CNN baseline and ResNet50V2 (transfer learning)
-- Achieved 98.0% test accuracy and F1-score
-- Analyzed deployment trade-offs between lightweight and high-capacity models
-
-### 🧠 Real vs AI-Generated Image Detection
-- Developed an image authenticity detection system
-- Implemented and compared CNN, VGG16, and ResNet50
-- Achieved up to 97.7% accuracy
-- Evaluated robustness vs computational cost
-
----
-
 ## 🎯 Career Goal
 
 I'm seeking opportunities as:
